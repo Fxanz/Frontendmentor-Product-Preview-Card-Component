@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-grid-KZZIyxhS8E)
-- Live Site URL: [Add live site URL here](https://fxanz.github.io/Frontendmentor-Product-Preview-Card-Component/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-grid-KZZIyxhS8E)
+- Live Site URL: [Live Site](https://fxanz.github.io/Frontendmentor-Product-Preview-Card-Component/)
 
 ## My process
 
