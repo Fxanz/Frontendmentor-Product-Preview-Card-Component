@@ -1,5 +1,7 @@
 # Frontend Mentor - Single price grid component solution
 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -83,7 +85,6 @@ have a better understanding of using grids to separate images and text
 ### Continued development
 
 i will try learn more about when is the best for using grid / flex and need more understanding for flexbox
-
 
 ## Author
 
